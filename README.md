@@ -690,16 +690,6 @@ chmod +x /etc/rc.local
 3. 程序日志中出现`error: unsupported rule type RULE-SET`报错，解决方法查看官方[WIKI](https://github.com/Dreamacro/clash/wiki/FAQ#error-unsupported-rule-type-rule-set)
 4. 如果出现无法使用clash命令，输入
    ```
-source ~/.config/clash-for-linux/profile.sh
-clashon
+   source ~/.config/clash-for-linux/profile.sh
+   clashon
    ```
-## ⭐ Star History
-
-[![Star History Chart](https://star-history.dera.page/svg?repos=wnlen/clash-for-linux)](https://star-history.dera.page/#wnlen/clash-for-linux)
-
-## ⚠️ 特别声明
-
-
-
-1. 编写本项目主要目的为学习和研究 `Shell` 编程，不得将本项目中任何内容用于违反国家/地区/组织等的法律法规或相关规定的其他用途。
-2. 本项目保留随时对免责声明进行补充或更改的权利，直接或间接使用本项目内容的个人或组织，视为接受本项目的特别声明。
