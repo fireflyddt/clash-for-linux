@@ -688,6 +688,10 @@ chmod +x /etc/rc.local
    目前此项目已集成自动识别和转换clash配置文件的功能。如果依然无法使用，则需要通过自建或者第三方平台（不推荐，有泄露风险）对订阅地址转换。
    
 3. 程序日志中出现`error: unsupported rule type RULE-SET`报错，解决方法查看官方[WIKI](https://github.com/Dreamacro/clash/wiki/FAQ#error-unsupported-rule-type-rule-set)
+4. 如果出现无法使用clash命令，输入
+   ```source ~/.config/clash-for-linux/profile.sh
+      clashon
+   ```
 ## ⭐ Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=wnlen/clash-for-linux)](https://star-history.dera.page/#wnlen/clash-for-linux)
